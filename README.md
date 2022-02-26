@@ -1,6 +1,6 @@
 # Hi everyone! :wave:
 
-[![Kaggle](https://img.shields.io/badge/SUPPORT%20AT-KAGGLE-green?style=for-the-badge&logo=github)](https://www.kaggle.com/ivandariojaramillo) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/ivan-dario-jaramillo-torres/) 
+[![Kaggle](https://img.shields.io/badge/SUPPORT%20AT-KAGGLE-green?style=for-the-badge&logo=github)](https://www.kaggle.com/ivandariojaramillo) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://linkedin.com/in/ivan-dario-jaramillo-torres-b175731a3) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandjt226@gmail.com)
 
 🌱 I am Ivan Dario Jaramillo Torres.
