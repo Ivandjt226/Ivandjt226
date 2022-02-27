@@ -4,7 +4,8 @@
 [![Kaggle](https://img.shields.io/badge/CODE%20AT-KAGGLE-green?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/ivandariojaramillo) 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/ivan-dario-jaramillo-torres-b175731a3)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandjt226@gmail.com)
-[![Medium](https://img.shields.io/badge/READ%20AT-Towardsdatascience-black?style=for-the-badge&logo=Medium)](https://medium.com/@ivandjt226)
+[![Notion](https://img.shields.io/badge/READ%20AT-NOTION-black?style=for-the-badge&logo=Notion)](https://www.notion.so/Curso-PRO-de-ML-con-Scikit-Learn-81f5811432ee46659c52b07d3221a0b4)
+
 
 
 🌱 I am Ivan Dario Jaramillo Torres.
