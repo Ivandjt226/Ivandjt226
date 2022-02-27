@@ -2,7 +2,7 @@
 
 [![Kaggle](https://img.shields.io/badge/SUPPORT%20AT-KAGGLE-green?style=for-the-badge&logo=github)](https://www.kaggle.com/ivandariojaramillo) 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/ivan-dario-jaramillo-torres-b175731a3)
-[![Medium](https://img.shields.io/badge/READ%20AT-Towardsdatascience-black?style=for-the-badge&logo=github)](https://medium.com/@ivandjt226)
+[![Medium](https://img.shields.io/badge/READ%20AT-Towardsdatascience-black?style=for-the-badge&logo=Medium)](https://medium.com/@ivandjt226)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandjt226@gmail.com)
 
 
