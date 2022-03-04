@@ -31,7 +31,7 @@ Talk to me about
 ##  💻 Skills and Tools:
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=atom&logoColor=white&color=2CD4A7) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=C&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/MachineLearning-Supervised-informational?style=flat&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/MachineLearning-Unsupervised-informational?style=flat&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-TensorFlow-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
@@ -46,7 +46,7 @@ Talk to me about
 ![](https://img.shields.io/badge/Interface-Streamlit-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=Mysql&logoColor=white&color=2CD4A7)
 
 
 ## 👀 I’m currently learning ...
