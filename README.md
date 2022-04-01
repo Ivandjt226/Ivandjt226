@@ -10,14 +10,14 @@
 
 🌱 I am Ivan Dario Jaramillo Torres.
 
-I'm a Machine Learning Engineer with 3 years of experience in the creation of computer vision models & chatbots, machine learning algorithms, testing and deploying models in production using tools like TensorFlow, OpenCV, Git, Flask, GCP and more. 🚀...
-I have been a software developer, AI developer, & self-taught data scientist in different companies which has given me a vision of creating AI products with a customer focus 🌎 
+I'm a Machine Learning Engineer, I have got experience in the creation of computer vision models & chatbots, machine learning algorithm, testing and deploying models in production, using tools like TensorFlow, OpenCV, Git, Flask, GCP and more. 🚀...
+I have worked as software developer, AI developer, & self-taught data scientist in different companies which have given to me a new vision about creating AI products focused in costumer's preferences 🌎 
 
-I'm especially interested in the intersection of data science focus in health :bar_chart: 
+I'm especially interested in the intersection of data science focused in health :bar_chart: 
 
 ## 👯 Communities
-- Research group in artificial intelligence of the UNAB University (2019-♾)
-- Collaborator of Switch IA 
+- Research group in artificial intelligence from UNAB University (2019-♾)
+- Switch IA Collaborator 
 
 ## ⚡ Technologies
 Talk to me about
@@ -25,7 +25,7 @@ Talk to me about
 - Front-end & Back-end development focusing in IA using **HTML, CSS, JavaScript, Python & C#** with Tools as **Vue.js, Flask, Streamlit, tkinter, dash, Django & Flutter**
 - Creating big and small projects using **Computer Vision (Python, C++, C#)**
 - Making for **Relational Database Management Systems** using **MongoDB & MySQL**
-- Automation systems & Robotics or chatbots.
+- Automation Systems & Robotics or chatbots. 
 
   
 ##  💻 Skills and Tools:
@@ -49,7 +49,7 @@ Talk to me about
 ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
 
 
-## 👀 I’m currently learning ...
+## 👀 I’m currently learning: 
 - Cloud interfaces & Devops
 - Microservices architecture
 - Analytics & Business Intelligence
