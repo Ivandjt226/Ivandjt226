@@ -10,7 +10,7 @@
 
 🌱 I am Ivan Dario Jaramillo Torres.
 
-I'm a Machine Learning Engineer, I have got experience in the creation of computer vision models & chatbots, machine learning algorithm, testing and deploying models in production, using tools like TensorFlow, OpenCV, Git, Flask, GCP and more. 🚀...
+I'm a Machine Learning Engineer. I have experience of three years in the creation of computer vision models & chatbots, machine learning algorithm, testing and deploying models in production, using tools like TensorFlow, OpenCV, Git, Flask, GCP and more. 🚀...
 I have worked as software developer, AI developer, & self-taught data scientist in different companies which have given to me a new vision about creating AI products focused in costumer's preferences 🌎 
 
 I'm especially interested in the intersection of data science focused in health :bar_chart: 
@@ -23,8 +23,7 @@ I'm especially interested in the intersection of data science focused in health 
 Talk to me about
 - Artificial Intelligence **TensorFlow, Pytorch, OpenCV, MediaPipe**
 - Front-end & Back-end development focusing in IA using **HTML, CSS, JavaScript, Python & C#** with Tools as **Vue.js, Flask, Streamlit, tkinter, dash, Django & Flutter**
-- Creating big and small projects using **Computer Vision (Python, C++, C#)**
-- Making for **Relational Database Management Systems** using **MongoDB & MySQL**
+- Creating big and small projects using **Computer Vision (Python, C++, C#)** based on **Relational Database Management Systems** trough **MongoDB & MySQL**
 - Automation Systems & Robotics or chatbots. 
 
   
